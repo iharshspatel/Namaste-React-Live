@@ -1,0 +1,2 @@
+#What is Emmet?
+It help developer to write code. It allows you to type shortcuts that are then expanded into full pieces of code. By using Emmet, developers type less, they save both on keystrokes and time.g
