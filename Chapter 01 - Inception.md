@@ -23,5 +23,5 @@ react.development.js is used when we are in development phase. it's file size is
 
 # What is async and defer?
 Async and Defer are boolean values which are used along with script tag to load external scripts efficiently.
-![Async and Defer from Akshay](https://www.awesomescreenshot.com/image/35611013?key=74bda928ba6e5ff87384bf4dd6664901)
+![Async and Defer from Akshay](https://imgur.com/a/qiAuE6P)
 
